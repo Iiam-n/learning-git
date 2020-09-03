@@ -1,2 +1,3 @@
-for i in "hello":
+x = input()
+for i in "x":
     print(i)
